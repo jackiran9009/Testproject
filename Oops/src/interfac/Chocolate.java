@@ -1,4 +1,4 @@
-package interfac;
+package interfac;//
 
 public interface Chocolate {
    void addchocolate();
