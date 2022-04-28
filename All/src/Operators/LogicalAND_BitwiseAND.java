@@ -1,4 +1,4 @@
-package Operators;
+package Operators;//
 
 public class LogicalAND_BitwiseAND {
 public static void main(String[] args) {

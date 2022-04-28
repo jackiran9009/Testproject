@@ -1,5 +1,5 @@
 package Operators;
-
+//
 public class LogicalOR_BitwiseOR {
 public static void main(String[] args) {
 	int a=10;
