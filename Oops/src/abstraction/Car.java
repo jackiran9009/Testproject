@@ -3,7 +3,7 @@ package abstraction;
 public class Car extends Fuel {
 
 
-	public void petrol() 
+	public void petrol() //
 	{
         System.out.println("car petrol is being filled in car");
 	}
