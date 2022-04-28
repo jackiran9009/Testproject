@@ -1,4 +1,4 @@
-package constructor;
+package constructor;//
 
 public class Parameterized {      //  also called argument constructor
 	Parameterized(int a)

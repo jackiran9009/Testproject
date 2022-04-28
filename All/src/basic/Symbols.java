@@ -1,4 +1,4 @@
-package basic;
+package basic;//
 
 public class Symbols {
 public static void main(String[] args) {

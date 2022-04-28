@@ -1,4 +1,4 @@
-package constructor;
+package constructor;//
 
 public class NonArgument {    //it is also called 1)zero argument 2)non parameterize
 	NonArgument()

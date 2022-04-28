@@ -1,4 +1,4 @@
-package basic;
+package basic;//
 
 public class Static_NonStatic {
 public static void method1()
