@@ -9,7 +9,7 @@ public void camera()
 public static void camera1() 
 {
 	System.out.print("in ganeral profesional use canon");
-	System.out.println(",because");
+	System.out.println(",because");///
 }
 	public void camera2()
 	{
