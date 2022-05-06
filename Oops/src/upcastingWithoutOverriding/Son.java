@@ -1,6 +1,6 @@
 package upcastingWithoutOverriding;
 
-public class Son extends Father{
+public class Son extends Father{     ////
        int age=25;
        public void job()
        {
