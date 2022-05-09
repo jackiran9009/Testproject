@@ -1,6 +1,8 @@
 package explicity_Casting;
 
 public class ExplicityCadting {
+	
+
 public static void main(String[] args) {
 	double d=3232.35;
 	float f=(float)d;
@@ -12,3 +14,5 @@ public static void main(String[] args) {
     System.out.println(s);
 }
 }
+
+

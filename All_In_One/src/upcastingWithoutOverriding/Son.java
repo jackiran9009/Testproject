@@ -12,9 +12,18 @@ class Son extends Father {
     	  System.out.println("son's job");
       }
       public static void main(String[] args) {
-		Father f=new Son();
-              f.home();
-              f.farm();
-              System.out.println(f.age);
+		
+//		Son s=new Son();
+//		s.farm();
+//		s.home();
+//		s.bike();
+//		s.job();
+		
+    	  Father f=new Son();
+          f.home();
+          f.farm();
+          System.out.println(f.age);
+		
+		
       }
 }
