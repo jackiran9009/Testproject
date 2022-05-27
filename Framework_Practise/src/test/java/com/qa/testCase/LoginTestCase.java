@@ -11,6 +11,7 @@ public class LoginTestCase extends ActiTestBase {
 	public void verifyLoginPage()
 	{
 	 lo.sendkeysUsername();
+	
 	}
    @Test
 	public void verifyPasswordPage()
