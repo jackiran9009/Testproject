@@ -10,8 +10,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class xyz {
 	WebDriver driver;
-	@BeforeMethod
-	public void start()
+	@BeforeMethod             //
+	public void start()         //
 	{
 		String br="chrome";
 		if(br.equalsIgnoreCase("chrome"))
